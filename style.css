@@ -1,0 +1,22 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+}
+.my-color{
+    color: orange;
+}
+.section-1{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+}
+.h-img{
+    width: 50%;
+    
+}
+.h-img img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
